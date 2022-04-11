@@ -1,8 +1,12 @@
 package microservice.model;
 
-
 public class Item {
+    private long id;
+    private int amount;
 
-    private Long id;
-    private int quantidade;
+    public long getId() { return id; }
+    public void setId(long id) { this.id = id; }
+
+    public int getAmount() { return amount; }
+    public void setAmount(int amount) { this.amount = amount; }
 }
