@@ -1,4 +1,4 @@
-package br.com.franzim.store.store;
+package br.com.franzim.store;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

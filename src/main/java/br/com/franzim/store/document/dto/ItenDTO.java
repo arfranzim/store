@@ -1,4 +1,4 @@
-package br.com.franzim.store.store.document.dto;
+package br.com.franzim.store.document.dto;
 
 import lombok.Data;
 
