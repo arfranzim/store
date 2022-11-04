@@ -1,4 +1,4 @@
-package br.com.franzim.store.store;
+package br.com.franzim.store;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
